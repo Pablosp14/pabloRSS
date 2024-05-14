@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página RSS de Pablo</title>
+    <link rel="alternate" type="application/rss+xml" title="Lanzamientos" href="https://Pablosp14.github.io/pabloRSS/rss/lanzamientos.xml">
+    <link rel="alternate" type="application/rss+xml" title="Descuentos" href="https://Pablosp14.github.io/pabloRSS/rss/descuentos.xml">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #e023d1;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #53553f;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        nav {
+            display: inline-block;
+            margin-right: 10px;
+        }
+        nav a {
+            display: inline-block;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+            background-color: #00ff62;
+            border-radius: 5px;
+        }
+        nav a:hover {
+            background-color: #0056b3;
+        }
+        .nav1 {
+            background-color: #ff5722;
+        }
+        .nav2 {
+            background-color: #9c27b0;
+        }
+        .rss-icon {
+            width: 36px;
+            height: 14px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Feed de Pablo sobre Videojuegos</h1>
+        <form action="https://Pablosp14.github.io/pabloRSS/html/lanzamientos.html">
+            <input type="submit" value="LanzamientosHTML"> 
+        </form>
+        <form action="https://Pablosp14.github.io/pabloRSS/html/descuentos.html">
+            <input type="submit" value="DescuentosHTML">
+        </form>
+        <nav class="nav1">
+            <img src="https://Pablosp14.github.io/pabloRSS/rss/pic_rss.gif" alt="RSS" class="rss-icon">
+            <a href="https://Pablosp14.github.io/pabloRSS/rss/lanzamientos.xml">Lanzamientos</a>
+        </nav>
+        <nav class="nav2">
+            <img src="https://Pablosp14.github.io/pabloRSS/rss/pic_rss.gif" alt="RSS" class="rss-icon">
+            <a href="https://Pablosp14.github.io/pabloRSS/rss/descuentos.xml">Descuentos</a>
+        </nav>
+    </header>
+</body>
+</html>
+

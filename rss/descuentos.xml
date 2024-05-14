@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Descuentos en Videojuegos</title>
+        <link>./img/ofertas.png</link>
+        <description>Los últimos descuentos y ofertas en videojuegos.</description>
+        <language>es-es</language>
+        <lastBuildDate>Tue, 14 May 2024 12:00:00 GMT</lastBuildDate>
+        <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
+
+        <item>
+            <title>Descuento en FC 24</title>
+            <link>./img/fc24.jpeg</link>
+            <description>Aprovecha un 20% de descuento en la última entrega de la saga FIFA. Fecha de publicación: 5 de mayo de 2024</description>
+            <pubDate>Sat, 05 May 2024 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Oferta en Call of Duty: Advanced Warfare</title>
+            <link>./img/callofduty.jpg</link>
+            <description>Hasta 30% de descuento en el exitoso juego de disparos. Fecha de publicación: 10 de mayo de 2024</description>
+            <pubDate>Thu, 10 May 2024 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Promoción en Assassin's Creed Unity</title>
+            <link>./img/assasincreed.jpg</link>
+            <description>Descuentos exclusivos en la aventura de acción y sigilo. Fecha de publicación: 15 de mayo de 2024</description>
+            <pubDate>Tue, 15 May 2024 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Oferta en Grand Theft Auto V</title>
+            <link>./img/gta5.jpg</link>
+            <description>¡Obtén un 50% de descuento en el legendario juego de mundo abierto! Fecha de publicación: 20 de mayo de 2024</description>
+            <pubDate>Sun, 20 May 2024 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Descuento en The Witcher 3: Wild Hunt</title>
+            <link>./img/thewitcher3.jpeg</link>
+            <description>Aprovecha un descuento del 25% en esta aclamada aventura de rol. Fecha de publicación: 25 de mayo de 2024</description>
+            <pubDate>Sat, 25 May 2024 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Promoción en Red Dead Redemption 2</title>
+            <link>./img/rdr2.jpg</link>
+            <description>Descuentos exclusivos en el épico juego de vaqueros. Fecha de publicación: 30 de mayo de 2024</description>
+            <pubDate>Thu, 30 May 2024 09:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
