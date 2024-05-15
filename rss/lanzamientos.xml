@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Próximos Lanzamientos en Videojuegos</title>
-        <link>./img/proximoslanzamientos.png</link>
+        <link>../img/proximoslanzamientos.png</link>
         <description>Entérate de los próximos lanzamientos de videojuegos más esperados del año.</description>
         <language>es-es</language>
         <lastBuildDate>Mon, 13 May 2024 12:00:00 GMT</lastBuildDate>
@@ -10,41 +10,39 @@
 
         <item>
             <title>Lanzamiento de Halo Infinite</title>
-            <link>./img/haloinfinite.jpg</link>
+            <link>../img/haloinfinite.jpg</link>
             <description>La esperada secuela de la franquicia de disparos en primera persona. Fecha de lanzamiento: 7 de mayo de 2024</description>
             <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
         </item>
 
         <item>
             <title>Estreno de The Last of Us Part II</title>
-            <link>./img/thelastofus2.jpg</link>
+            <link>../img/thelastofus2.jpg</link>
             <description>Continúa la épica saga de supervivencia y aventura. Fecha de lanzamiento: 15 de mayo de 2024</description>
             <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
         </item>
 
         <item>
             <title>Lanzamiento de Final Fantasy XVI</title>
-            <link>./img/finalfantasy.jpg</link>
+            <link>../img/finalfantasy.jpg</link>
             <description>La próxima entrega de la legendaria serie de juegos de rol. Fecha de lanzamiento: 2024 (Fecha exacta por confirmar)</description>
         </item>
 
         <item>
             <title>Estreno de Elden Ring</title>
-            <link>./img/eldenring.jpg</link>
+            <link>../img/eldenring.jpg</link>
             <description>El esperado juego de rol de acción de mundo abierto de los creadores de Dark Souls. Fecha de lanzamiento: 2024 (Fecha exacta por confirmar)</description>
         </item>
 
         <item>
             <title>Lanzamiento de God of War: Ragnarok</title>
-            <link>./img/godofwar.jpg</link>
+            <link>../img/godofwar.jpg</link>
             <description>La siguiente aventura de Kratos en el mundo nórdico. Fecha de lanzamiento: 2024 (Fecha exacta por confirmar)</description>
         </item>
 
         <item>
             <title>Lanzamiento de Cyberpunk 2077: Enhanced Edition</title>
-            <link><div class=""/>
-            <img src="" alt=""/>
-            <cyberpunk></cyberpunk>.jpg</link>
+            <link>../img/cyberpunk.jpg</link>
             <description>La versión mejorada del aclamado juego de rol de mundo abierto con nuevas características y mejoras. Fecha de lanzamiento: 2024 (Fecha exacta por confirmar)</description>
         </item>
     </channel>
